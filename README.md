@@ -5,11 +5,11 @@
 
 <div align="center">
 
-###My Pronouns
+My Pronouns
 
 [![My Pronouns](https://img.shields.io/endpoint?color=gold&logo=pronouns&style=for-the-badge&url=https://pronoundb.org/shields/616fed8580a76173e9650045)](https://pronoundb.org)
 
-###My Socials
+My Socials
 
 [![My Discord](https://img.shields.io/discord/784293822879760415?color=blue&label=Gamer%20Lounge&style=for-the-badge)](https://inv.wtf/strqtz)
 
@@ -19,7 +19,7 @@
 
 [![My Twitch](https://img.shields.io/twitch/status/strqtz_?color=purple&style=for-the-badge)](https://twitch.tv/strqtz_)
 
-###My Stats
+My Stats
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Strqtz&count_private=true&show_icons=true&theme=github_dark)](https://github.com/Strqtz)
 
