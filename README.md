@@ -13,7 +13,7 @@ My Pronouns
 
 My Socials
 
-[![My Discord](https://img.shields.io/discord/784293822879760415?color=blue&label=Gamer%20Lounge&style=for-the-badge)](https://inv.wtf/strqtz)
+[![My Discord](https://img.shields.io/discord/943089316291305483?color=blue&label=Support%20Server&style=for-the-badge)](https://discord.gg/J7jmBeFjrx)
     
 [![Stop Throwing Discord](https://img.shields.io/discord/900692529048080424?color=red&label=Stop%20Throwing%20Guild&logo=Stop%20Throwing%20Guild&style=for-the-badge)](https://discord.gg/R8sxj8ZJns)
 
