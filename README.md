@@ -7,9 +7,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/1edfec6f-eaff-418e-acf9-3ee083cc2baf.svg?style=for-the-badge)](https://wakatime.com/@1edfec6f-eaff-418e-acf9-3ee083cc2baf)
 
-My Pronouns
-
-[![My Pronouns](https://img.shields.io/endpoint?color=gold&logo=pronouns&style=for-the-badge&url=https://pronoundb.org/shields/616fed8580a76173e9650045)](https://pronoundb.org)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=ktkryyh2k1n1mgr52vkusiihb&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ktkryyh2k1n1mgr52vkusiihb&cover_image=true&theme=default&bar_color_cover=true)]]
 
 My Socials
 
